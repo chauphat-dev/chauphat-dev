@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm an undergraduate at HCMUS (University of Science, VNU-HCM), based in Ho Chi Minh City. I'm building my software engineering skills through course projects and practice in Java and Spring Boot.
+I'm an undergraduate at HCMUS (University of Science, VNU-HCM), based in Ho Chi Minh City. I'm building my software engineering skills through course projects and practice.
 
 ### Built With
 
