@@ -35,11 +35,6 @@ I'm an undergraduate at HCMUS (University of Science, VNU-HCM), based in Ho Chi 
 | :--- | :--- | :--- |
 | **[OOP AI Agent](https://github.com/chauphat-dev/OOP-AI-AGENT-PROJECT)** | AI agent running on Ollama with Gemma. Team project for my OOP course. | C++26, SQLite, libcurl, CMake |
 
-## Roadmap
-
-- [x] Build an AI agent in C++ with a teammate
-- [ ] Keep learning Java and Spring Boot
-- [ ] Publish Smart Doc Assistant
 
 ## Contact
 
